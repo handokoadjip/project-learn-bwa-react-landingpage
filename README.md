@@ -22,7 +22,7 @@ Clone the repository
 
 ## Usage example
 
-![Login](https://bebaskripsi.000webhostapp.com/project-learn-bwa-react-landingpage/landing-page.png?)
+![Landing Page](https://bebaskripsi.000webhostapp.com/project-learn-bwa-react-landingpage/landing-page.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
